@@ -1,4 +1,4 @@
-ActionscriptRakeTempalte
+ActionscriptRakeTemplate
     by Roger Jungemann
     http://www.thefifthcircuit.com
 
@@ -25,7 +25,7 @@ The simplest possible Flex Builder-compatible Rake project for ActionScript proj
 * Check out this project from Github.
 * Edit the Rakefile to change the path to your valid Flex SDK.
 * Edit the Rakefile with your project name. Edit the "bin/index.html" and change the "var so" line to reflect your project name.
-* Run Rake by typing in "rake" from a Terminal set to the "ActionscriptRakeTemplate directory".
+* Run Rake by typing in "rake" from a Terminal set to the "ActionscriptRakeTemplate" directory.
 * You can see a list of tasks by typing in "rake -T".
 
 == LICENSE:
