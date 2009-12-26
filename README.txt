@@ -8,7 +8,7 @@ The simplest possible Flex Builder-compatible Rake project for ActionScript proj
 
 == FEATURES/PROBLEMS:
 
-* Only currently works on OS X.
+* Currently only works on OS X.
 
 == SYNOPSIS:
 
